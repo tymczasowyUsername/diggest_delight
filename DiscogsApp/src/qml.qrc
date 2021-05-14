@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>customitems/FlickableDelegate.qml</file>
+        <file>models/ReleaseListView.qml</file>
+        <file>models/WantlistDelegate.qml</file>
+        <file>models/CollectionDelegate.qml</file>
+        <file>screens/MainScreen.qml</file>
+        <file>customitems/RoundButton.qml</file>
+    </qresource>
+</RCC>

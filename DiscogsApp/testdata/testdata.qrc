@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>collection.json</file>
+        <file>wantlist.json</file>
+    </qresource>
+</RCC>
